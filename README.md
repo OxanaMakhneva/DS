@@ -10,3 +10,6 @@
 
 ##GridSearch_about.ipynb
 Блок для визуализации принципов работы GridSearch
+
+![udv_meetup](https://github.com/user-attachments/assets/d6c55ff3-c384-4c7c-a304-40150283a0ae)
+
